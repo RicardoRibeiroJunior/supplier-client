@@ -1,5 +1,5 @@
 <h1 align="center">
-     <a href="#" alt="CRUD SUPPLIER - CLIENT"> Docks Management </a>
+     <a href="#" alt="CRUD SUPPLIER - CLIENT"> Supplier Client </a>
 </h1>
 
 <h3 align="center">
